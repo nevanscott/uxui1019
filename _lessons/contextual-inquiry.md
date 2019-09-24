@@ -33,6 +33,21 @@ prep:
   - format: Reading
     link: 'https://www.wickedproblems.com/4_methods_for_research.php'
     title: Contextual Inquiry
+objectives:
+  - Understand the pros and cons of contextual inquiry
+  - Learn how and when to conduct a contextual interview
+  - Understand the benefits of observational research
+  - Understand what a User Journey Map is and its use
+  - Learn how to create a User Journey Map
+  - Understand the importance of taking into account the business objectives
+  - Understand the objective of the 5 whys and how to apply it
+resources:
+  - Methods for research
+  - Contextual Inquiry
+  - Participatory Design
+  - Cultural Probes
+textbook:
+  - User Journeys
 ---
 ## Topics
 
@@ -41,9 +56,3 @@ prep:
 * User Journeys
 * Lean Canvas
 * 5 whys
-
-
-
-## Ironhack Learning Platform
-
-* [User Journeys](http://learn.ironhack.com/#/learning_unit/7021)

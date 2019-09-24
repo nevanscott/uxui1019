@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<article>
+	{% include page/header.html %}
+	<div class="sidebar-layout">
+	  <div class="not-sidebar">
+			{% if page.objectives %}
+				<h2>Learning Objectives</h2>
+				<ul>
+				  {% for objective in page.objectives %}
+				    <li>{{ objective | markdownify }}</li>
+				  {% endfor %}
+				</ul>
+			{% endif %}
+			{{ content }}
+			{% if page.resources %}
+				<h2>Resources</h2>
+			  {% for resource in page.resources %}
+			    {% assign post = site.resources | where: "title" , resource | first %}
+					{% include post/preview.html strong=true %}
+			  {% endfor %}
+			{% endif %}
+			{% if page.further %}
+				<h2>Further Resources</h2>
+			  {% for resource in page.further %}
+			    {% assign post = site.resources | where: "title" , resource | first %}
+					{% include post/preview.html strong=true %}
+			  {% endfor %}
+			{% endif %}
+			{% if page.textbook %}
+				<h2>From the Textbook</h2>
+			  {% for resource in page.textbook %}
+			    {% assign post = site.data.textbook | where: "title" , resource | first %}
+					{% include post/preview.html strong=true %}
+			  {% endfor %}
+			{% endif %}
+	  </div>
+	  <div class="sidebar">
+			{% if page.prep %}
+				<h2>Prep work</h2>
+			  {% for resource in page.prep %}
+			    {% assign post = site.resources | where: "title" , resource | first %}
+					{% include post/card.html %}
+			  {% endfor %}
+			{% endif %}
+	  </div>
+	</div>
+</article>

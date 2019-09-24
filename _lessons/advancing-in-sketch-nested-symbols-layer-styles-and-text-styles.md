@@ -11,21 +11,14 @@ description: >-
   Mastering this features will help you make your work more efficient and your
   design more consistent.
 objectives:
-  - use nested symbols in Sketch to make reusable UI components
-  - use styles in sketch to make your design consistent and up to date
-resources: []
+  - Use nested symbols in Sketch to make reusable UI components
+  - Use styles in sketch to make your design consistent and up to date
+resources:
+  - 'Make Sketch Do the Work: Layer Styles and Text Styles'
+  - Better Icons with Sketch Layer Styles
+  - Organizing Layer Styles
 prep:
-  - author: Drew Vosburg
-    format: Article
-    link: 'https://madeintandem.com/blog/make-sketch-work-layer-styles-text-styles/'
-    title: 'Make Sketch Do the Work: Layer Styles and Text Styles'
-  - author: Jesse Showalter
-    format: Video
-    link: 'https://www.youtube.com/watch?v=67ralD6gJTs'
-    title: Better Icons with Sketch Layer Styles
-  - author: Ryan Quintal
-    format: Video
-    link: 'https://www.youtube.com/watch?v=Bxr_Kb09ito'
-    title: Organizing Layer Styles
+  - 'Make Sketch Do the Work: Layer Styles and Text Styles'
+  - Better Icons with Sketch Layer Styles
+  - Organizing Layer Styles
 ---
-
