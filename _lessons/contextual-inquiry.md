@@ -24,15 +24,9 @@ resources:
   - Participatory Design
   - Cultural Probes
 prep:
-  - format: Video
-    link: 'https://www.youtube.com/watch?v=nC47ktX4U2I'
-    title: 'Contextual Inquiry: Leave Your Office to Find Design Ideas'
-  - format: Video
-    link: 'https://www.youtube.com/watch?v=Gd5fA9UQDjE'
-    title: 'Contextual Inquiry: Workforce Mobility'
-  - format: Reading
-    link: 'https://www.wickedproblems.com/4_methods_for_research.php'
-    title: Contextual Inquiry
+  - 'Contextual Inquiry: Leave Your Office to Find Design Ideas'
+  - 'Contextual Inquiry: Workforce Mobility'
+  - 'Methods for research: Contextual Inquiry'
 objectives:
   - Understand the pros and cons of contextual inquiry
   - Learn how and when to conduct a contextual interview
@@ -49,6 +43,7 @@ resources:
 textbook:
   - User Journeys
 ---
+
 ## Topics
 
 * Contextual Inquiry
