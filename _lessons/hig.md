@@ -17,6 +17,9 @@ objectives:
 resources:
   - Iterative UI Design
   - Human Interface Guidelines
+textbook:
+  - iOs vs Material design
+  - iOs Human interface guidelines
 ---
 
 Where to start
@@ -33,9 +36,3 @@ The HIG is... detailed. You're not going to read through it all in one go. Here'
 [Navigation Bars]: https://developer.apple.com/design/human-interface-guidelines/ios/bars/navigation-bars/
 [Tab Bars]: https://developer.apple.com/design/human-interface-guidelines/ios/bars/tab-bars/
 [Toolbars]: https://developer.apple.com/design/human-interface-guidelines/ios/bars/toolbars/
-
-
-Ironhack Learning Platform
---------------------------
-- [iOs vs Material design](http://learn.ironhack.com/#/learning_unit/7072)
-- [iOs Human interface guidelines](http://learn.ironhack.com/#/learning_unit/7073)
