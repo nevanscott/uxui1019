@@ -8,20 +8,9 @@ description: >
   We'll try out a couple of card sorting techniques to help us more objectively
   gauge the desirability and aesthetic appeal of our designs.
 prep:
-  - format: Video
-    link: 'https://www.nngroup.com/videos/5-second-usability-test/'
-    title: 5-Second Usability Test
-  - format: Reading
-    link: 'https://www.nngroup.com/articles/testing-visual-design/'
-    title: How to test visual design
-  - format: Reading
-    link: 'https://www.nngroup.com/articles/first-impressions-human-automaticity/'
-    title: >-
-      First Impressions Matter: How Designers Can Support Automatic Cognitive
-      Processing
+  - 5-Second Usability Test
+  - How to test visual design
+  - First Impressions Matter
+textbook:
+  - Desirability testing
 ---
-
-Ironhack Learning Platform
---------------------------
-
-- [Desirability testing](http://learn.ironhack.com/#/learning_unit/7098)
