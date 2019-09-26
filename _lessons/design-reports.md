@@ -15,12 +15,13 @@ objectives:
 resources:
   - 'Designing Case Studies: Showcasing A Human-Centered Design Process'
   - Questions I ask when reviewing a design
+further:
+  - How to Write an “About Me” Page That Gets You Hired
+  - Words as Material
 prep:
-  - author: Senongo Akpem
-    format: Reading
-    link: >-
-      https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/
-    title: 'Designing Case Studies: Showcasing A Human-Centered Design Process'
+  - 'Designing Case Studies: Showcasing A Human-Centered Design Process'
+textbook:
+  - Presenting your work
 ---
 ## Introduction
 
@@ -83,12 +84,3 @@ In order to not overload the report, some elements might be added in the appendi
 * [Triplog for Airbnb China](http://airbnbtriplog.com)
 * [Creating a Build Mode for InVision’s Mobile App — Case Study](https://medium.com/nyc-design/creating-a-build-mode-for-the-invision-mobile-app-f241aa66e4af)
 * [TV Guide Android app](http://abdussalam.pk/project/tv-guide-app)
-
-## Further Reading
-
-* [How To Write an “About Me” Page That Gets You Hired](https://99u.adobe.com/articles/51669/how-to-write-about-me-section) by Nicole Fenton
-* [Words as Material](https://www.nicolefenton.com/words-as-material/) by Nicole Fenton
-
-## Ironhack Learning Platform
-
-* [Presenting your work](http://learn.ironhack.com/#/learning_unit/7080)
