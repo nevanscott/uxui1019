@@ -19,11 +19,7 @@ resources:
   - 'An Introduction to Design Thinking: Process Guide'
   - 'The Double Diamond: Strategy + Execution of the Right Solution'
   - A study of the design process
+textbook:
+  - 'Introduction to User Research'
+  - 'Double diamond & Problem Statement'
 ---
-
-
-Ironhack Learning Platform
---------------------------
-
-- [Introduction to User Research](http://learn.ironhack.com/#/learning_unit/7010)
-- [Double diamond & Problem Statement](http://learn.ironhack.com/#/learning_unit/7025)
