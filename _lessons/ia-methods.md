@@ -25,10 +25,6 @@ resources:
   - Use Cases
   - Scenarios
 ---
-In this class, we will go through two main topics:
-
-* Task Analysis
-* Scenarios
 
 ## Further Reading
 
