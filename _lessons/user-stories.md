@@ -24,15 +24,9 @@ prep:
   - format: Reading
     link: 'https://www.gov.uk/service-manual/agile-delivery/writing-user-stories'
     title: Writing user stories
+further:
+  - Accounting for UX Work with User Stories in Agile Projects
+textbook:
+  - User stories
+  - Jobs-to-be-Done
 ---
-Further Reading
----------------
-
-- [Accounting for UX Work with User Stories in Agile Projects](https://www.nngroup.com/articles/ux-user-stories/) by Page Laubheimer and Hoa Loranger
-
-
-Ironhack Learning Platform
---------------------------
-
-- [User stories](http://learn.ironhack.com/#/learning_unit/7083)
-- [Jobs-to-be-Done](http://learn.ironhack.com/#/learning_unit/7067)
